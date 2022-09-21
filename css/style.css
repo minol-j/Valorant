@@ -360,7 +360,7 @@ p {
 .pheonix__abibilities:hover {
     background-color: #f8f8f8;
     border: 2px solid #1f2326;
-    background-image: url("/img/abilities__black.svg");
+    background-image: url("img/abilities__black.svg");
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -416,7 +416,7 @@ p {
 .jett__abilities:hover {
     background-color: #f8f8f8;
     border: 2px solid #1f2326;
-    background-image: url("/img/jett__abilities__black.png");
+    background-image: url("img/jett__abilities__black.png");
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -471,7 +471,7 @@ p {
 .sova__abilities:hover {
     background-color: #f8f8f8;
     border: 2px solid #1f2326;
-    background-image: url("/img/sova__abilities__black.png");
+    background-image: url("img/sova__abilities__black.png");
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -520,7 +520,7 @@ p {
 .sage__abilities:hover {
     background-color: #f8f8f8;
     border: 2px solid #1f2326;
-    background-image: url("/img/sage__abilities__black.png");
+    background-image: url("img/sage__abilities__black.png");
     background-position: center;
     background-repeat: no-repeat;
 }
